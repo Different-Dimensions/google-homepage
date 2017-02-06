@@ -1,0 +1,196 @@
+<<<<<<< HEAD
+body {
+	background-color: #FFF;
+	margin: 0;
+	clear: both;
+}
+
+button {
+	background-color: #f5f5f5;
+}
+
+a {
+	font-family: arial, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+header {
+	margin: 14px 0 15px 0;
+	line-height: 60px;
+}
+
+.header {
+	line-height: 30px;
+
+}
+
+header, footer {
+	vertical-align: middle;
+}
+
+footer {
+	border-top: 1px solid #E4E4E4;
+	line-height: 40px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	background-color: #F2F2F2;
+	width: 100%;
+}
+
+.footer {
+}
+
+.rhs, .header {
+	margin-right:30px;
+	float: right;
+}
+
+.lhs {
+	margin-left:30px;
+}
+
+.lhs a {
+	padding-right: 27px;
+}
+
+.rhs a {
+	padding-left: 27px;
+}
+
+header a {
+	color: #404040;
+	font: 13px/27px Arial,sans-serif;
+	vertical-align: middle;
+	margin-left: 11px;
+}
+
+
+header a:hover {
+	color: #000;
+}
+
+input {
+	font: 16px arial,sans-serif;
+	border: medium none;
+	padding: 5px 9px;
+	background: url('data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D') repeat scroll 0% 0% transparent;
+	width: 552px;
+	height: 18px;
+    left: -1px;
+    top: -1px;
+    position: absolute;
+}
+
+input:focus {
+	border: 1px solid #4285F4;
+}
+
+footer a {
+	color: #666;
+	font-family: arial, sans-serif;
+	font-size: small;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+header a.applications {
+	vertical-align: middle;
+	margin-left: 11px;
+	display: inline-block;
+	background-image: url('https://ssl.gstatic.com/gb/images/v1_b444d4f7.png');
+	background-position: -69px -854px;
+	width: 30px;
+	height: 30px;
+	opacity: 0.55;
+}
+
+header a.applications:hover {
+	opacity: 1;
+}
+
+header a.connexion {
+	border-radius: 2px;
+	display: inline-block;
+	color: #FFF;
+	border: 1px solid #4285F4;
+	background-color: #4387FD;
+	font-weight: bold;
+	text-align: center;
+	padding: 0 12px 0 12px;
+	line-height: 28px;
+	text-decoration: none;
+	cursor: pointer;
+	margin-left: 11px;
+}
+
+.search-button {
+	text-align: center;
+}
+
+.search-button a {
+	font-size: font: 13px/27px Arial,sans-serif;
+	border-radius: 2px;
+	display: inline-block;
+	color: #444;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #F5F5F5;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: bold;
+	margin: 8px 6px 8px 6px;
+	padding: 0 10px 0 10px;
+	height: 27px;
+	line-height: 27px;
+	text-align: center;
+}
+
+.search-button a:hover {
+	border-bottom-width: 2px;
+	border-color: rgba(0, 0, 0, 0.2);
+	margin-bottom: 7px;
+}
+
+.search {
+	margin-top: 23px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	width: 570px;
+	height: 28px;
+	margin-bottom: 8px;
+	position: relative;
+}
+
+.search:hover {
+	border-color: rgba(0, 0, 0, 0.3);
+}
+
+.body {
+	width: 572px;
+	margin: 0px auto 0 auto;
+	padding: 226px 0 26px 0;
+}
+
+.logo {
+	height:92px;
+	width:272px;
+	margin: 0px auto 0 auto;
+	position: relative;
+}
+
+.country {
+	color:rgba(6, 54, 227, 0.92);
+	font-size:16px;
+	font-weight: bold;
+	position:absolute;
+	left:218px;top:70px;
+=======
+body
+{
+background: blue;
+>>>>>>> origin/master
+}
